@@ -1,2 +1,2 @@
-# K-Nearest Neighbors (KNN)
-This notebook implements the K-Nearest Neighbors (KNN) classification algorithm completely from scratch using Python.
+# K-Nearest Neighbors (KNN) Regressor
+This notebook implements the K-Nearest Neighbors (KNN) regression algorithm completely from scratch using Python.
